@@ -30,6 +30,4 @@ def lanzar():
         
     elif opcion == "5":
         print("Hasta pronto!")
-
-if __name__ == "__main__":
-    lanzar()
+        sys.exit()
